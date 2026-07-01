@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Somay 👋
 
-<!--
-**Somay-Yadav/Somay-Yadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Beginner Developer | Python & Web Development
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- Learning Python, JavaScript and Web Development
+- Building projects and improving my coding skills
+- Interested in software development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- Python
+- HTML
+- CSS
+- JavaScript
+- MySQL
+- Git & GitHub
+
+## 📌 Projects
+
+🌐 Portfolio Website  
+Personal portfolio built using HTML and CSS
+
+🐍 pyvault  
+Python password manager using JSON storage
+
+🏨 Hotel Management System  
+Python + MySQL based management system
+
+## 📊 GitHub Stats
+
+Thanks for visiting my profile 🚀
