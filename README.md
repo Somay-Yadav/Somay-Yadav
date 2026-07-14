@@ -1,35 +1,128 @@
-# Hi, I'm Somay 👋
+# Hi, I'm Somay Yadav 👋
 
-💻 Beginner Developer | Python & Web Development
+💻 **B.Tech CSE (AI) Student** | Python Developer | Frontend Web Developer
+
+I'm passionate about building projects that help me learn new technologies. Currently exploring software development through Python, C, JavaScript, and modern web technologies.
+
+---
 
 ## 🚀 About Me
-- Learning Python, JavaScript and Web Development
-- Building projects and improving my coding skills
-- Interested in software development
 
-## 🛠️ Skills
+* 🎓 B.Tech CSE (AI) Student at Bennett University
+* 🌱 Currently learning **C, JavaScript, and Web Development**
+* 🐍 Love building applications with Python
+* 💡 Interested in Software Development, Automation, and Web Development
+* 🚀 Always working on new projects and improving my coding skills
 
-- Python
-- HTML
-- CSS
-- JavaScript
-- MySQL
-- Git & GitHub
+---
 
-## 📌 Projects
+## 🛠️ Tech Stack
 
-🌐 **[Portfolio Website](https://github.com/Somay-Yadav/Portfolio-Website)**  
-Personal portfolio built using HTML and CSS.
+### Languages
 
-🔐 **[PyVault](https://github.com/Somay-Yadav/pyvault)**  
-Python password manager with encryption, password generation, and secure JSON storage.
+* C
+* Python
+* HTML5
+* CSS3
+* JavaScript
+* SQL
 
-📁 **[Python File Organizer](https://github.com/Somay-Yadav/Python-File-Organizer)**  
-Desktop application built with Python and Tkinter to automatically organize files by category. Includes a GUI, duplicate handling, logging, customizable categories, progress tracking, and a standalone Windows executable.
+### Tools & Technologies
 
-🏨 **[Hotel Management System](https://github.com/Somay-Yadav/Hotel-Management-System)**  
-Python + MySQL based management system.
+* Git
+* GitHub
+* MySQL
+* Tkinter
+* VS Code
+
+---
+
+## 📌 Featured Projects
+
+### 🌐 Portfolio Website
+
+A responsive personal portfolio showcasing my skills, projects, and journey as a developer.
+
+**Tech:** HTML • CSS
+
+🔗 Repository:
+https://github.com/Somay-Yadav/Old-Portfolio-Website
+
+---
+
+### 💰 Expense Tracker
+
+A modern expense tracker built with HTML, CSS, and JavaScript featuring a clean interface for managing income and expenses.
+
+**Tech:** HTML • CSS • JavaScript
+
+🔗 Repository:
+https://github.com/Somay-Yadav/Expense-Tracker
+
+---
+
+### 🔐 PyVault
+
+A secure password manager featuring master password authentication, encrypted password storage, password generation, and SQLite support.
+
+**Tech:** Python • SQLite • Cryptography
+
+🔗 Repository:
+https://github.com/Somay-Yadav/PyVault
+
+---
+
+### 📁 Python File Organizer
+
+A desktop application that automatically organizes files by category with an easy-to-use graphical interface.
+
+**Features**
+
+* File categorization
+* Duplicate handling
+* Logging
+* Custom categories
+* Progress tracking
+* Windows executable
+
+**Tech:** Python • Tkinter
+
+🔗 Repository:
+https://github.com/Somay-Yadav/Python-File-Organizer
+
+---
+
+### 🏨 Hotel Management System
+
+A Python and MySQL based hotel management application.
+
+**Tech:** Python • MySQL
+
+🔗 Repository:
+https://github.com/Somay-Yadav/Hotel-Management-System
+
+---
 
 ## 📊 GitHub Stats
 
-Thanks for visiting my profile 🚀
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Somay-Yadav&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somay-Yadav&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Somay-Yadav&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Current Goals
+
+* 📚 Learn Data Structures & Algorithms in C
+* 🌐 Master JavaScript and React
+* ⚙️ Build full-stack web applications
+* 🤝 Contribute to open-source projects
+
+---
+
+⭐ Thanks for visiting my GitHub profile! Feel free to explore my repositories and follow my coding journey.
