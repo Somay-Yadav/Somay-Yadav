@@ -39,17 +39,6 @@ I'm passionate about building projects that help me learn new technologies. Curr
 
 ## 📌 Featured Projects
 
-### 🌐 Portfolio Website
-
-A responsive personal portfolio showcasing my skills, projects, and journey as a developer.
-
-**Tech:** HTML • CSS
-
-🔗 Repository:
-https://github.com/Somay-Yadav/Old-Portfolio-Website
-
----
-
 ### 💰 Expense Tracker
 
 A modern expense tracker built with HTML, CSS, and JavaScript featuring a clean interface for managing income and expenses.
