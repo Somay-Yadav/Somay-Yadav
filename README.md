@@ -165,7 +165,7 @@ https://github.com/Somay-Yadav/Hotel-Management-System
 ## 📫 Connect with Me
 
 * GitHub: **https://github.com/Somay-Yadav**
-* LinkedIn: *(Coming Soon)*
+* LinkedIn: **www.linkedin.com/in/somay-yadav**
 
 ---
 
