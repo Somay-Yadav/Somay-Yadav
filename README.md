@@ -79,7 +79,7 @@ https://github.com/Somay-Yadav/TubeFetch
 
 ## 💰 Expense Tracker
 
-A clean and responsive expense tracker that helps users manage income, expenses, and balance with an intuitive interface.
+A modern, responsive Expense Tracker built with HTML, CSS, and Vanilla JavaScript. It helps users manage their finances by tracking income and expenses, organizing transactions with categories, monitoring their balance, and switching between dark and light themes—all without any frameworks.
 
 **Tech Stack**
 
